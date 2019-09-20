@@ -1,3 +1,19 @@
 s is first line
 2nd line 
 
+3rd line
+:wq
+:wq
+
+:
+:wq
+
+
+
+"""\
+3rd line
+:wq
+gx mnb mnbzxmn
+t status
+4th line
+
